@@ -20,20 +20,9 @@ function numbersRomansParse(event){
             resultadoAtual = resultadoAtual + resultadoPosterior
         }else{
             resultadoAtual = resultadoPosterior - resultadoAtual
-        }
-       
-        
-       
+        }   
     }
     
     console.log(resultadoAtual)
     
-   
-
-    
-    
-    
-    
-    
-   
 }
